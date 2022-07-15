@@ -4,7 +4,7 @@ function Banner() {
   return (
     <div>
         <div className="flex justify-center items-center my-20">
-            <div className=" font-['Poppins_sans'] uppercase w-[420px]">
+            <div className=" font-['Poppins_sans'] uppercase lg:w-[420px]">
                 <p className="text-[8px] font-semibold tracking-wider">FULL STACK WEB DEVELOPER</p>
                 <h2 className="text-[50px] font-bold leading-snug  drop-shadow-[0_0_10px_rgba(130,246,229,0.6)]">Hey Everyone! Im James </h2>
                 <p className="text-[8px] tracking-wider">I create websites that help connect with everyone. COME TAKE A LOOK AT MY PORTOLIO AND SEE MY BEST WEB DESIGN SKILLS</p>

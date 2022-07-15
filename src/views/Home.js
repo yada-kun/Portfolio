@@ -1,6 +1,7 @@
 import Header from "../components/Header";
 
-function Home() {
+function Home(props){
+
   return (
     <div>
         <Header/>

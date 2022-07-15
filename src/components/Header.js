@@ -4,7 +4,7 @@ import Banner from "./Banner";
 function Header() {
   return (
     <div className="bg-[url('https://demo.dwtutorial.com/qreato/wp-content/uploads/sites/10/2021/11/section-4.jpeg')] h-screen bg-cover bg-[top_center">
-        <div className="flex justify-between px-44">
+        <div className="flex justify-between lg:px-44 ">
             <h1 className="text-[25px] mt-2">Cloud</h1>
 
             <ul className="flex gap-5 py-5 text-[10px]">
@@ -20,4 +20,4 @@ function Header() {
   )
 }
 
-export default Header
+export default Header;
